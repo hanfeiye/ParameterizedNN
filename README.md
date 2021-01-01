@@ -55,5 +55,18 @@ You can modify them according to your needs.
 
 
 ## Application
+
 ...on going.
+
+
+## Examples
+A PNN is trained at signal masses of 400, 600, 800, 1000 and 1500 GeV. It's validated at 700, 900, 1200 GeV.
+
+ROC plot:
+
+<examples/plots/Validation_ROCs.png>
+
+output plot for 1500 GeV:
+
+<examples/plots/Validation_Dis_1500GeV.png>
 
