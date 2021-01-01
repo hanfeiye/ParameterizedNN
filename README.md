@@ -3,7 +3,10 @@ Implementation of parameterized neural network (PNN) by using Keras.
 
 It runs on 114.212.235.193 since Bowen Zhang ( one of members of NJU HEP group ) has installed Keras and its depencence on it(Thanks, Bowen!). 
 
-+ Note: if you are interested in Keras, please refer to this page. [Keras](https://keras.io/zh/)
+Notes:
++ If you are interested in Keras, please refer to this page. [Keras](https://keras.io/zh/)
++ Information on what is artificial neural network and how it works can be found on Internet. 
+
 
 ## Log and Clone this repo.
 First, log on 114.212.235.193 by your own account, UserName@114.212.235.193
@@ -37,6 +40,18 @@ Prepare your inputs by yourself. They are ROOT files sotring trees(TTree).
 Refer to this [script](doc/copytree_addSignalMass.py) to see how these two points are implemented.
 
 ## Train and test
+
+```bash
+python train_PNN.py
+```
+
+Definition of NN model and settings for plotting can be found in source/ folder.
+
+```bash
+ls -l source/
+```
+
+You can modify them according to your needs.
 
 
 ## Application
