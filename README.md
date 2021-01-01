@@ -37,6 +37,12 @@ cd ParameterizedNN
 git checkout -b myDevBranch
 ```
 
+## Set up the environment
+
+```bash
+source setup.sh
+```
+
 ## Prepare your inputs
 Prepare your inputs by yourself. They are ROOT files sotring trees(TTree).
 
@@ -44,6 +50,12 @@ Prepare your inputs by yourself. They are ROOT files sotring trees(TTree).
 + All of background or signal events should be labeled (0 for bkg, 1 for sig).
 
 Refer to this [script](doc/copytree_addSignalMass.py) to see how these two points are implemented.
+
+A few inputs has been provided and can be found in inputs/
+
+```bash
+ls -l inputs/
+```
 
 ## Train and test
 
