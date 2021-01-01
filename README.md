@@ -60,7 +60,7 @@ You can modify them according to your needs.
 
 
 ## Examples
-A PNN is trained at signal masses of 400, 600, 800, 1000 and 1500 GeV. It's validated at 700, 900, 1200 GeV.
+A PNN is trained by using signal masses of 400, 600, 800, 1000 and 1500 GeV. It's tested at 700, 900, 1200 GeV.
 
 ROC plot:
 
