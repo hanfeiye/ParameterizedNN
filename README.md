@@ -53,10 +53,19 @@ ls -l source/
 
 You can modify them according to your needs.
 
+## Hyper-paramerters tuning
+
++ the number of epochs  
++ batch size
++ the number of units in model
++ ...
+
+...on going.
+
 
 ## Application
 
-...on going.
+...on going. (transfer output arrays into a new branch of a TTree, stored as ROOT files)
 
 
 ## Examples
