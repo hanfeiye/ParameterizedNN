@@ -1,5 +1,5 @@
 # ParameterizedNN
-Implementation of parameterized neural network (PNN) by using Keras.
+Simple implementation of parameterized neural network (PNN) by using Keras.
 
 It runs on 114.212.235.193 since Bowen Zhang ( one of members of NJU HEP group ) has installed Keras and its depencence on it(Thanks, Bowen!). 
 
