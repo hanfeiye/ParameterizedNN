@@ -11,11 +11,17 @@ Notes:
 ## Log and Clone this repo.
 First, log on 114.212.235.193 by your own account, UserName@114.212.235.193
 
+In NJU, use
+
 ```bash
 ssh -Y UserName@114.212.235.193
 ```
-+ Note: this machine is in 526, Physics Building, NJU.
 
+Outside of NJU, use
+
+```bash
+ssh -p 6000 UserName@42.193.179.181
+```
 
 Then, create an empty folder for your work.
 
