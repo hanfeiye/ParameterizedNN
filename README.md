@@ -64,9 +64,9 @@ A PNN is trained at signal masses of 400, 600, 800, 1000 and 1500 GeV. It's vali
 
 ROC plot:
 
-<examples/plots/Validation_ROCs.png>
+<img src=examples/plots/Validation_ROCs.png>
 
-output plot for 1500 GeV:
+Output plot for 1500 GeV:
 
-<examples/plots/Validation_Dis_1500GeV.png>
+<img src=examples/plots/Validation_Dis_1500GeV.png>
 
